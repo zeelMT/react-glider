@@ -2,4 +2,3 @@ node_modules/
 coverage
 .cache
 build
-dist
